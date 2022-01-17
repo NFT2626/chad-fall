@@ -1,0 +1,15 @@
+{
+  "name": "freeFall",
+  "version": "1.0.0",
+  "description": "** sample it ! --- and enjoy find the gif screenshoting basic game play below and the android app as well ![](demo.gif) # for android users here's the app iOS I don't have the device to run the tests on 😴 --- [Get the android app here](https://build.phonegap.com/apps/3653074/share) # non 'build' source code coming soon 😏",
+  "main": "game.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
