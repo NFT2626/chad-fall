@@ -1,4 +1,4 @@
-# freeFall v2.0
+# chadfall v2.0
 ![](banner.png)
 I have update the game by adding a palallax scrolling background behind the scene I've also changed the onscreen buttons its now 
 * L: left 

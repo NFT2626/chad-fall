@@ -1,7 +1,7 @@
 {
-	"name": "freeFall",
-	"short_name": "freeFall",
-	"description": "This freeFall HTML5 Game which will work in offline, has a splash screen add to home screen etc,.",
+	"name": "chadfall",
+	"short_name": "chadfall",
+	"description": "This chadfall HTML5 Game which will work in offline, has a splash screen add to home screen etc,.",
 	"start_url": "./",
 	"display": "standalone",
 	"orientation": "portrait",
@@ -23,7 +23,7 @@
 		"name": "John Swana",
 		"website": "https://swashvirus.github.io",
 		"github": "https://github.com/swashvirus",
-		"source-repo": "https://github.com/swashvirus/freeFall"
+		"source-repo": "https://github.com/swashvirus/chadfall"
 	},
 	"gcm_sender_id": "847244712742",
 	"gcm_user_visible_only": true
